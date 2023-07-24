@@ -1,8 +1,12 @@
 
 these python file details
+<<<<<<< HEAD
 HEAD
 i an in master branch
 
 =======
 i am in dev branch 
 development
+=======
+i am in dev branch 
+>>>>>>> f180b99 (updated dev branch...)
